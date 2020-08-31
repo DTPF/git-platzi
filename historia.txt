@@ -7,5 +7,3 @@ Cambio desde repositorio clonado v.2
 Hola mundo.
 
 Añadido desde branch
-
-Estilos añadidos
